@@ -40,3 +40,4 @@ mswindows/osgeo4w/package/
 mswindows/osgeo4w/setup*.hint
 mswindows/osgeo4w/vc/
 daag*.s
+confdefs.h
